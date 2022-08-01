@@ -1,5 +1,5 @@
 # Python-3-Review
-### Repositório criado para revisar/organizar o conhecimento sobre python3 puro
+### Repositório criado para revisar/organizar o conhecimento sobre python3
 
 Para comentar linhas em python use '#'
 
@@ -9,6 +9,7 @@ Examples:
 
 my_name = 'Vinícius Alexandre Garcia' #Int type
 my_age = 24                           #Str type
+
 
 Também é possível atribuir o type de uma variável 
 x = str(3)    # x é '3'
