@@ -44,7 +44,23 @@ double_quotes = "string teste 2
 * x = memoryview(bytes(5))	memoryview	
 * x = None	NoneType	
 
-### Operadores lógicos do Python
+### Operadores aritméticos do Python
+#### Exemplos:
+x = 2
+y = 3
+
+![image](https://user-images.githubusercontent.com/66021970/182054058-b8fcf2a1-8d75-4d2b-ae82-b54108fee075.png)
+
+### Operadores lógicos no Python
+* == igual
+* != diferente
+* AND 
+* OR
+* NOT 
+
+### Palavras reservadas do Pyhton
+
+![image](https://user-images.githubusercontent.com/66021970/182054415-e212971d-aee2-4c7c-a903-926a75264996.png)
 
 ### Strings
 Para printrar uma string:
