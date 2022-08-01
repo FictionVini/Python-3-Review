@@ -3,15 +3,52 @@
 
 Para comentar linhas em python use '#'
 
-#### Variáveis
+### Variáveis
 Python possui uma sintaxe muito simples, para a criação de uma variável basta atribuir valor a ela, sem necessidade de atribuir e também podendo mudar o seu type.
 Examples:
 
 my_name = 'Vinícius Alexandre Garcia' #Int type
+
 my_age = 24                           #Str type
 
 
-Também é possível atribuir o type de uma variável 
+##### Também é possível atribuir o type de uma variável 
+
 x = str(3)    # x é '3'
+
 y = int(3)    # y é 3
+
 z = float(3)  # z é 3.0
+
+##### A criação de uma variável string é possível por áspas simples ou duplas:
+
+single_quotes = 'string teste'
+
+double_quotes = "string teste 2
+
+### Tipos de dados
+
+* x = "Hello World"	str	
+* x = 20	int	
+* x = 20.5	float	
+* x = 1j	complex	
+* x = ["apple", "banana", "cherry"]	list	
+* x = ("apple", "banana", "cherry")	tuple	
+* x = range(6)	range	
+* x = {"name" : "John", "age" : 36}	dict	
+* x = {"apple", "banana", "cherry"}	set	
+* x = frozenset({"apple", "banana", "cherry"})	frozenset	
+* x = True	bool	
+* x = b"Hello"	bytes	
+* x = bytearray(5)	bytearray	
+* x = memoryview(bytes(5))	memoryview	
+* x = None	NoneType	
+
+### Operadores lógicos do Python
+
+### Strings
+Para printrar uma string:
+print('Python 3 é muito bom')
+
+##### Slicing de string
+O Slicing é o fatiamento de uma string, retornando pedaços da mesma, exemplos:
