@@ -68,3 +68,20 @@ print('Python 3 é muito bom')
 
 ##### Slicing de string
 O Slicing é o fatiamento de uma string, retornando pedaços da mesma, exemplos:
+
+![image](https://user-images.githubusercontent.com/66021970/182278489-72d905ae-36a0-4d21-950b-915771d3ce69.png)
+
+#### comparação de strings
+![image](https://user-images.githubusercontent.com/66021970/182280006-db5ade1b-f89d-4982-bb25-83ab73843ef9.png)
+
+
+### Condicionais Python
+
+Controle de condições no python com if, elif e else, exemplos:
+
+![image](https://user-images.githubusercontent.com/66021970/182279106-45505df2-7900-4a8c-b977-cf7fc0122817.png)
+
+![image](https://user-images.githubusercontent.com/66021970/182279403-cbb8517f-75bc-40d2-b6e1-70ed94caa8b3.png)
+
+
+
